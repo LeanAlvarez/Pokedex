@@ -1,7 +1,7 @@
 
 # Pokedex
 
-Aplicacion construida en React Native para visualizar todos los Pokemons y guardar tus favoritos.
+Aplicación construida en React Native para visualizar todos los Pokemons y guardar tus favoritos.
 
 
 
